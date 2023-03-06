@@ -3,7 +3,7 @@ import openai
 from typing import Iterator, List, Dict
 from csv import DictReader, DictWriter
 
-API_KEY = "TOKEN_HERE"
+API_KEY = "API-TOKEN"
 
 MODEL_NAME = "text-davinci-003"
 MODEL_BASE_TEMPERATURE = 0.7

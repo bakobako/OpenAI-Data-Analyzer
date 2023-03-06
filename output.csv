@@ -3,7 +3,7 @@
 3,"dog cat, the pop up house that is round to table","{'tone': 'neutral', 'grammatically_correct': False, 'message_clarity': 'not clear', 'message_language': 'English', 'to_respond': False}"
 4,Im not sure I agree,"{'tone': 'slightly negative', 'grammatically_correct': True, 'message_clarity': 'clear', 'message_language': 'English', 'to_respond': False}"
 5,That's ok,"{'tone': 'neutral', 'grammatically_correct': True, 'message_clarity': 'clear', 'message_language': 'English', 'to_respond': False}"
-6,asdasdasfdgeaf,"{'tone': 'neutral', 'grammatically_correct': False, 'message_clarity': 'not clear', 'message_language': 'not applicable', 'to_respond': False}"
+6,asdasdasfdgeaf,"{'tone': 'neutral', 'grammatically_correct': False, 'message_clarity': 'not clear', 'message_language': 'unknown', 'to_respond': False}"
 7,"Co jste právě řekli, je jedna z nejúžasnějších věcí, které jsem kdy slyšela","{'tone': 'very positive', 'grammatically_correct': True, 'message_clarity': 'clear', 'message_language': 'Czech', 'to_respond': True}"
 8,Can you explain what happened with the last post?,"{'tone': 'neutral', 'grammatically_correct': True, 'message_clarity': 'clear', 'message_language': 'English', 'to_respond': True}"
 9,Whats up with the new buffer api,"{'tone': 'neutral', 'grammatically_correct': True, 'message_clarity': 'clear', 'message_language': 'English', 'to_respond': True}"
